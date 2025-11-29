@@ -1,5 +1,19 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Vishal Sonawane - Career Website
-description: Vishal Sonawane - Career Website
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+title: Vishal Sonawane
+tagline: Lead Software Engineer | Python | AWS | Data
+description: Career website and resume of Vishal Sonawane.
+
+minimal_mistakes_skin: default
+
+author:
+  name: "Vishal Sonawane"
+  bio: "Lead Software Engineer"
+  location: "Pune, India"
+  email: "vishalsonawane1515@gmail.com"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/vishal-sonawane"
