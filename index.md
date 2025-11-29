@@ -19,6 +19,16 @@ Lead Software Engineer with **12+ years of Python expertise**, specializing in *
 
 ---
 
+## 🤖 Chat with my AI Resume
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.49.1/gradio.js"
+></script>
+
+<gradio-app src="https://vishal150291-professional-resume-ai-chat.hf.space"></gradio-app>
+
+---
+
 ## 🛠 Skills
 - **Languages & Scripting**: Python, SQL, Unix Shell Scripting
 - **AWS Cloud**: EC2, ECS, S3, RDS, Redshift, Lambda, EMR, DynamoDB
