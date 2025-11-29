@@ -1,0 +1,132 @@
+VISHAL
+SONAWANE
+Lead - Software Engineer
+- Python|AWS|Data
+vishalsonawane1515@gmail.com
++91 9834-328-480
+Pune
+EDUCATION
+Master of Science
+Computer Science
+Washington State University
+Pullman, WA
+CGPA 3.9/4.0
+Relevant courses
+machine learning
+artiﬁcial intelligence
+data science
+algorithms
+big data
+SKILLS
+Python, SQL, Unix Shell Scripting
+Django, Amazon Stack (EC2, ECS,
+S3, RDS, Redshift, Lambda, EMR)
+GitHub Copilot, SonarQube,
+Apache Airﬂow, IBM DataStax
+Cassandra
+Tableau, Power BI, JuPYter
+Notebook, Python packages (data
+manipulation)
+Mongo DB, MySQL, Postgres SQL,
+Map reduce, PySpark, Dynamo DB
+Microsoft SQL Studio, PyCharm
+CERTIFICATIONS
+AWS Certiﬁed Solutions Architect
+Modern Big Data Analysis with SQL
+Pandas for Data Science
+Essential Training Machine
+Learning and AI Foundations
+GenAI for Managers
+CAREER OBJECTIVE
+Lead Software Engineer with 12+ years of Python expertise, specializing in AWS
+serverless architecture, data engineering, solving big data problems,
+onboarding AI solutions. Serving as Technical Project Manager managing 30+
+member team
+WORK EXPERIENCE
+Technical Project Manager (Python/AWS)
+Quinnox Consulting
+Feb 2024 - current Remote (Pune, India)
+Spearheaded onshore and oﬀshore team eﬀorts, enhancing project
+delivery by 30% through strategic planning and eﬀective management.
+Led architecture designs in collaboration with clients, successfully
+automating 2 legacy applications, reducing processing time by 75%.
+Developed and optimized AWS EMR Pyspark jobs and Airﬂow DAG
+workﬂows, enhancing data processing eﬃciency by 70%.
+Designed and implemented 5 AWS CloudWatch dashboards, enhancing
+monitoring and alerting capabilities, boosting client engagement by 50%.
+Served as a Subject Matter Expert, leading RCA initiatives that improved
+feature onboarding eﬃciency by 50%.
+Contributed to Cassandra cluster and database design, optimizing data
+retrieval by 20%, enhancing system performance.
+Spearheaded DevOps initiatives with Docker and GitHub Actions,
+optimizing deployments and improving eﬃciency by 30%.
+Lead - AWS Python Developer
+Fannie Mae
+June 2022 - Jan 2024 Remote (WA, USA)
+Collaborated with the Risk and Compliance Technology team to eﬃciently
+extract and transform data from APIs and S3, enhancing storage in AWS
+RDS and Redshift, boosting data retrieval speed by 30%.
+Engineered Python lambda functions to process 10,000+ data entries
+monthly, reducing report generation time by 30% for Tableau.
+Developed 5 PySpark Glue jobs improving data transformation of daily AWS
+S3 ﬁles by 70% from CSV to Parquet format.
+Engineered API utilities to streamline data processing from diverse sources,
+enhancing eﬃciency by 30% using API Gateway and DynamoDB.
+Developed and optimized over 50 SQL queries and procedures in Redshift,
+enhancing data retrieval eﬃciency by 25%.
+Developed UNIX scripts leveraging Boto3 to automate AWS service
+invocations via EC2, enhancing batch process eﬃciency by 25%.
+Collaborated with Agile and Scrum teams to streamline project delivery,
+improving timelines by 20% and enhancing team eﬃciency.
+Python Developer | Specialist Programmer
+Bank of America | Infosys
+May 2020 - June 2022 Irving, TX
+Developed predictive machine learning algorithms in Python, boosting
+model accuracy by 15%; enhanced data processing of JSON and XML
+formats by 30%.
+Led end-to-end data mining processes, achieving a 20% reduction in
+analysis time through eﬃcient data cleaning and advanced modeling
+techniques
+Streamlined data manipulation and aggregation across multiple sources
+using Nexus and PowerBI, improving reporting eﬃciency by 30
+Led a team of 5 in implementing Agile methodology, reducing project
+delivery time by 30% for an internal application
+Developed a Python utility utilizing SciPy, NumPy, and pandas to streamline
+data processing, improving eﬃciency by 30%
+Spearheaded data discovery initiatives across 150+ applications, identifying
+50+ instances of potential conﬁdential information and enhancing
+database security
+Developed Python utilities reducing manual eﬀort by 60% and saving client
+$200K+ worth of time and eﬀort
+Technology Lead - Data Analytics
+Neiman Marcus | Infosys
+September 2019 - May 2020 Irving, TX
+Led 10+ client engagement initiatives, driving functionality enhancements
+to meet business requirements on schedule
+Analyzed and resolved critical production incidents, enhancing business
+continuity by 30%
+Led ETL big data projects, supporting 10+ critical business integrations
+using Informatica, Python, and AWS, streamlining enterprise operations
+Introduced automated scripts using Python and Selenium to automate
+creating and closing tickets as per the scenario. This reduced the time per
+ticket from 2 minutes to 20 seconds
+Data Scientist
+Washington State University
+August 2017 - May 2019 Pullman, WA
+Built complete PyPI complaint python package (pyleafarea) using deep
+learning (keras) and computer vision (open-cv) to automate speciﬁc leaf
+area measurements improving work eﬃciency by 60 percent
+Senior Software Engineering Analyst- Analytics and
+Automation
+Accenture Services
+June 2012 - July 2017 Pune, India
+Enhanced software testing processes at the largest Nordic insurer by
+implementing Java Selenium framework, improving eﬃciency by 30%
+Led independent module testing in insurance, enhancing client satisfaction
+by 25% through on-site collaboration
+Led automation initiatives for regression testing, increasing test eﬃciency
+by 30% in project sub-module
+Mentored 5 junior team members, enhancing their domain knowledge and
+improving their performance by 30%
+Streamlined reporting processes by 30% using advanced Excel macros,
+delivering comprehensive reports eﬃciently
