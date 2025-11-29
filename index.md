@@ -14,11 +14,6 @@ title: Home
 
 ---
 
-## 📝 Career Objective
-Lead Software Engineer with **12+ years of Python expertise**, specializing in **AWS serverless architecture**, **data engineering**, solving big data problems, and onboarding AI solutions. Serving as **Technical Project Manager** managing a 30+ member team.
-
----
-
 ## 🤖 Chat with my AI Resume
 <script
 	type="module"
@@ -26,6 +21,12 @@ Lead Software Engineer with **12+ years of Python expertise**, specializing in *
 ></script>
 
 <gradio-app src="https://vishal150291-professional-resume-ai-chat.hf.space"></gradio-app>
+
+---
+
+
+## 📝 Career Objective
+Lead Software Engineer with **12+ years of Python expertise**, specializing in **AWS serverless architecture**, **data engineering**, solving big data problems, and onboarding AI solutions. Serving as **Technical Project Manager** managing a 30+ member team.
 
 ---
 
